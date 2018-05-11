@@ -66,6 +66,7 @@
     "fx-runner": "1.0.8",
     "git-rev-sync": "1.9.1",
     "grunt": "1.0.2",
+    "grunt-cli": "1.2.0",
     "grunt-contrib-clean": "1.1.0",
     "grunt-contrib-copy": "1.0.0",
     "grunt-contrib-watch": "1.0.0",
